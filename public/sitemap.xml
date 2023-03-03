@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bibek.pro/</loc>
+    <lastmod>2023-03-04T10:12:30+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/categories/cat/</loc>
+    <lastmod>2023-03-04T10:12:30+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/categories/</loc>
+    <lastmod>2023-03-04T10:12:30+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/posts/newfile3/</loc>
+    <lastmod>2023-03-04T10:12:30+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/posts/</loc>
+    <lastmod>2023-03-04T10:12:30+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/posts/newfile2/</loc>
+    <lastmod>2023-03-04T10:11:30+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/posts/newfile/</loc>
+    <lastmod>2023-03-04T10:09:06+11:00</lastmod>
+  </url><url>
+    <loc>https://bibek.pro/tags/</loc>
+  </url>
+</urlset>
